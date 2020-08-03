@@ -1,1 +1,3 @@
-# autoML
+# Automated Machine Learning (autoML)
+
+This notebook is designed to interactively guide the user through an end-to-end process for deploying an automated machine learning workflow utilizing h2o.ai's autoML function. The user is simply required to select a dataset and choose a variable they would like to predict before running the automation. The user can choose to run the automation with default parameters or override those parameters following the input prompts embedded in this notebook. This workflow is designed for all modelers - new and experienced - who are looking to leverage automated machine learning methods in their work.
